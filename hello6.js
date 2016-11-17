@@ -1,4 +1,4 @@
-//hello5.js
+//hello6.js
 const fs = require("fs");
 const readline = require('readline');
 const rl = readline.createInterface({
